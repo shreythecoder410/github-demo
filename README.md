@@ -1,4 +1,4 @@
 # github-demo
 this is github practice
 <br>
-Author - shreyasee
+Author - shreyasee Pal
